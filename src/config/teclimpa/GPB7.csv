@@ -1,0 +1,235 @@
+nome 1	linha 1	nome 2	linha 2
+g. p. lisboa	Membro Externo	m. s. moreau	Membro Externo
+g. p. lisboa	Membro Externo	r. l. gomes	Membro Externo
+g. p. lisboa	Membro Externo	g. s. lisboa	Membro Externo
+g. p. lisboa	Membro Externo	v. a. silva	Membro Externo
+g. p. lisboa	Membro Externo	r. s. magalhaes	Membro Externo
+g. p. lisboa	Membro Externo	l. c. j. franca	Membro Externo
+g. p. lisboa	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+g. p. lisboa	Membro Externo	h. c. haddadfoi	Membro Externo
+m. s. moreau	Membro Externo	r. l. gomes	Membro Externo
+m. s. moreau	Membro Externo	g. s. lisboa	Membro Externo
+m. s. moreau	Membro Externo	v. a. silva	Membro Externo
+m. s. moreau	Membro Externo	r. s. magalhaes	Membro Externo
+m. s. moreau	Membro Externo	l. c. j. franca	Membro Externo
+m. s. moreau	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+m. s. moreau	Membro Externo	h. c. haddadfoi	Membro Externo
+r. l. gomes	Membro Externo	g. s. lisboa	Membro Externo
+r. l. gomes	Membro Externo	v. a. silva	Membro Externo
+r. l. gomes	Membro Externo	r. s. magalhaes	Membro Externo
+r. l. gomes	Membro Externo	l. c. j. franca	Membro Externo
+r. l. gomes	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+r. l. gomes	Membro Externo	h. c. haddadfoi	Membro Externo
+g. s. lisboa	Membro Externo	v. a. silva	Membro Externo
+g. s. lisboa	Membro Externo	r. s. magalhaes	Membro Externo
+g. s. lisboa	Membro Externo	l. c. j. franca	Membro Externo
+g. s. lisboa	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+g. s. lisboa	Membro Externo	h. c. haddadfoi	Membro Externo
+v. a. silva	Membro Externo	r. s. magalhaes	Membro Externo
+v. a. silva	Membro Externo	l. c. j. franca	Membro Externo
+v. a. silva	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+v. a. silva	Membro Externo	h. c. haddadfoi	Membro Externo
+r. s. magalhaes	Membro Externo	l. c. j. franca	Membro Externo
+r. s. magalhaes	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+r. s. magalhaes	Membro Externo	h. c. haddadfoi	Membro Externo
+l. c. j. franca	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+l. c. j. franca	Membro Externo	h. c. haddadfoi	Membro Externo
+alex mota dos santos	Modelagem de Sistemas	h. c. haddadfoi	Membro Externo
+v. dombinov	Membro Externo	h. poorter	Membro Externo
+v. dombinov	Membro Externo	n. d. jablonowski	Membro Externo
+v. dombinov	Membro Externo	s. d. schrey	Membro Externo
+v. dombinov	Membro Externo	h. herzel	Membro Externo
+v. dombinov	Membro Externo	m. meiller	Membro Externo
+v. dombinov	Membro Externo	f. muller	Membro Externo
+v. dombinov	Membro Externo	s. willbold	Membro Externo
+v. dombinov	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+v. dombinov	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+v. dombinov	Membro Externo	c. adam	Membro Externo
+v. dombinov	Membro Externo	h. klose	Membro Externo
+h. poorter	Membro Externo	n. d. jablonowski	Membro Externo
+h. poorter	Membro Externo	s. d. schrey	Membro Externo
+h. poorter	Membro Externo	h. herzel	Membro Externo
+h. poorter	Membro Externo	m. meiller	Membro Externo
+h. poorter	Membro Externo	f. muller	Membro Externo
+h. poorter	Membro Externo	s. willbold	Membro Externo
+h. poorter	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+h. poorter	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+h. poorter	Membro Externo	c. adam	Membro Externo
+h. poorter	Membro Externo	h. klose	Membro Externo
+n. d. jablonowski	Membro Externo	s. d. schrey	Membro Externo
+n. d. jablonowski	Membro Externo	h. herzel	Membro Externo
+n. d. jablonowski	Membro Externo	m. meiller	Membro Externo
+n. d. jablonowski	Membro Externo	f. muller	Membro Externo
+n. d. jablonowski	Membro Externo	s. willbold	Membro Externo
+n. d. jablonowski	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+n. d. jablonowski	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+n. d. jablonowski	Membro Externo	c. adam	Membro Externo
+n. d. jablonowski	Membro Externo	h. klose	Membro Externo
+s. d. schrey	Membro Externo	h. herzel	Membro Externo
+s. d. schrey	Membro Externo	m. meiller	Membro Externo
+s. d. schrey	Membro Externo	f. muller	Membro Externo
+s. d. schrey	Membro Externo	s. willbold	Membro Externo
+s. d. schrey	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+s. d. schrey	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+s. d. schrey	Membro Externo	c. adam	Membro Externo
+s. d. schrey	Membro Externo	h. klose	Membro Externo
+h. herzel	Membro Externo	m. meiller	Membro Externo
+h. herzel	Membro Externo	f. muller	Membro Externo
+h. herzel	Membro Externo	s. willbold	Membro Externo
+h. herzel	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+h. herzel	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+h. herzel	Membro Externo	c. adam	Membro Externo
+h. herzel	Membro Externo	h. klose	Membro Externo
+m. meiller	Membro Externo	f. muller	Membro Externo
+m. meiller	Membro Externo	s. willbold	Membro Externo
+m. meiller	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+m. meiller	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+m. meiller	Membro Externo	c. adam	Membro Externo
+m. meiller	Membro Externo	h. klose	Membro Externo
+f. muller	Membro Externo	s. willbold	Membro Externo
+f. muller	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+f. muller	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+f. muller	Membro Externo	c. adam	Membro Externo
+f. muller	Membro Externo	h. klose	Membro Externo
+s. willbold	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+s. willbold	Membro Externo	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+s. willbold	Membro Externo	c. adam	Membro Externo
+s. willbold	Membro Externo	h. klose	Membro Externo
+joachim werner zang	Tecnologia e Gerenciamento de Resíduos	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+joachim werner zang	Tecnologia e Gerenciamento de Resíduos	c. adam	Membro Externo
+joachim werner zang	Tecnologia e Gerenciamento de Resíduos	h. klose	Membro Externo
+warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos	c. adam	Membro Externo
+warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos	h. klose	Membro Externo
+c. adam	Membro Externo	h. klose	Membro Externo
+aylton jose alves	Energias Renováveis	g. p. furriel	Membro Externo
+aylton jose alves	Energias Renováveis	g. p furriel	Membro Externo
+aylton jose alves	Energias Renováveis	f. a. projeta	Membro Externo
+aylton jose alves	Energias Renováveis	s. b. oliveira	Membro Externo
+aylton jose alves	Energias Renováveis	w.p. calixto	Membro Externo
+aylton jose alves	Energias Renováveis	a. c. paulo coimbra	Membro Externo
+aylton jose alves	Energias Renováveis	carlos l.b. silva	Membro Externo
+aylton jose alves	Energias Renováveis	a. m. silva filho	Membro Externo
+aylton jose alves	Energias Renováveis	d. n. oliveira	Membro Externo
+aylton jose alves	Energias Renováveis	f. s. nobre	Membro Externo
+aylton jose alves	Energias Renováveis	m. a. a. oliveira	Membro Externo
+aylton jose alves	Energias Renováveis	t. g. pires	Membro Externo
+aylton jose alves	Energias Renováveis	m. g. narciso	Membro Externo
+aylton jose alves	Energias Renováveis	f. f. f. godoi	Membro Externo
+aylton jose alves	Energias Renováveis	f. f. f. godoi	Membro Externo
+aylton jose alves	Energias Renováveis	f. f. f. godoi	Membro Externo
+aylton jose alves	Energias Renováveis	j. r. s. silva	Membro Externo
+aylton jose alves	Energias Renováveis	j. r. s. silva	Membro Externo
+aylton jose alves	Energias Renováveis	j. r. s. silva	Membro Externo
+aylton jose alves	Energias Renováveis	f. a. profeta	Membro Externo
+aylton jose alves	Energias Renováveis	f. a. profeta	Membro Externo
+aylton jose alves	Energias Renováveis	b. c. r. silva	Membro Externo
+aylton jose alves	Energias Renováveis	c. a. matias	Membro Externo
+aylton jose alves	Energias Renováveis	l. m. santos	Membro Externo
+aylton jose alves	Energias Renováveis	jose luis domingos	Energias Renováveis
+aylton jose alves	Energias Renováveis	jose luis domingos	Energias Renováveis
+aylton jose alves	Energias Renováveis	p. h. f. moraes	Membro Externo
+aylton jose alves	Energias Renováveis	a. s. magalhaes	Membro Externo
+aylton jose alves	Energias Renováveis	wesley pacheco calixto	Modelagem de Sistemas
+aylton jose alves	Energias Renováveis	wesley pacheco calixto	Modelagem de Sistemas
+aylton jose alves	Energias Renováveis	wesley pacheco calixto	Modelagem de Sistemas
+aylton jose alves	Energias Renováveis	wesley pacheco calixto	Modelagem de Sistemas
+aylton jose alves	Energias Renováveis	wesley pacheco calixto	Modelagem de Sistemas
+g. p. furriel	Membro Externo	jose luis domingos	Energias Renováveis
+g. p. furriel	Membro Externo	f. f. f. godoi	Membro Externo
+g. p. furriel	Membro Externo	f. f. f. godoi	Membro Externo
+g. p. furriel	Membro Externo	j. r. s. silva	Membro Externo
+g. p. furriel	Membro Externo	j. r. s. silva	Membro Externo
+g. p. furriel	Membro Externo	f. a. profeta	Membro Externo
+g. p. furriel	Membro Externo	f. a. profeta	Membro Externo
+g. p. furriel	Membro Externo	aylton jose alves	Energias Renováveis
+g. p. furriel	Membro Externo	aylton jose alves	Energias Renováveis
+g. p. furriel	Membro Externo	b. c. r. silva	Membro Externo
+g. p. furriel	Membro Externo	c. a. matias	Membro Externo
+g. p. furriel	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+g. p. furriel	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+g. p. furriel	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+f. f. f. godoi	Membro Externo	jose luis domingos	Energias Renováveis
+f. f. f. godoi	Membro Externo	g. p furriel	Membro Externo
+f. f. f. godoi	Membro Externo	f. a. projeta	Membro Externo
+f. f. f. godoi	Membro Externo	s. b. oliveira	Membro Externo
+f. f. f. godoi	Membro Externo	w.p. calixto	Membro Externo
+f. f. f. godoi	Membro Externo	j. r. s. silva	Membro Externo
+f. f. f. godoi	Membro Externo	j. r. s. silva	Membro Externo
+f. f. f. godoi	Membro Externo	j. r. s. silva	Membro Externo
+f. f. f. godoi	Membro Externo	f. a. profeta	Membro Externo
+f. f. f. godoi	Membro Externo	f. a. profeta	Membro Externo
+f. f. f. godoi	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+f. f. f. godoi	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+j. r. s. silva	Membro Externo	jose luis domingos	Energias Renováveis
+j. r. s. silva	Membro Externo	g. p furriel	Membro Externo
+j. r. s. silva	Membro Externo	f. a. projeta	Membro Externo
+j. r. s. silva	Membro Externo	s. b. oliveira	Membro Externo
+j. r. s. silva	Membro Externo	w.p. calixto	Membro Externo
+j. r. s. silva	Membro Externo	f. a. profeta	Membro Externo
+j. r. s. silva	Membro Externo	f. a. profeta	Membro Externo
+j. r. s. silva	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+j. r. s. silva	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+f. a. profeta	Membro Externo	jose luis domingos	Energias Renováveis
+f. a. profeta	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+f. a. profeta	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+jose luis domingos	Energias Renováveis	wesley pacheco calixto	Modelagem de Sistemas
+jose luis domingos	Energias Renováveis	l. m. santos	Membro Externo
+g. p furriel	Membro Externo	f. a. projeta	Membro Externo
+g. p furriel	Membro Externo	s. b. oliveira	Membro Externo
+g. p furriel	Membro Externo	w.p. calixto	Membro Externo
+f. a. projeta	Membro Externo	s. b. oliveira	Membro Externo
+f. a. projeta	Membro Externo	w.p. calixto	Membro Externo
+s. b. oliveira	Membro Externo	w.p. calixto	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	a. c. paulo coimbra	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	carlos l.b. silva	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	a. m. silva filho	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	d. n. oliveira	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	f. s. nobre	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	m. a. a. oliveira	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	m. g. narciso	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	c. a. matias	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	l. m. santos	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	aylton jose alves	Energias Renováveis
+wesley pacheco calixto	Modelagem de Sistemas	aylton jose alves	Energias Renováveis
+wesley pacheco calixto	Modelagem de Sistemas	jose luis domingos	Energias Renováveis
+wesley pacheco calixto	Modelagem de Sistemas	a. s. magalhaes	Membro Externo
+a. c. paulo coimbra	Membro Externo	carlos l.b. silva	Membro Externo
+a. c. paulo coimbra	Membro Externo	a. m. silva filho	Membro Externo
+a. c. paulo coimbra	Membro Externo	d. n. oliveira	Membro Externo
+a. c. paulo coimbra	Membro Externo	f. s. nobre	Membro Externo
+a. c. paulo coimbra	Membro Externo	m. a. a. oliveira	Membro Externo
+carlos l.b. silva	Membro Externo	a. m. silva filho	Membro Externo
+carlos l.b. silva	Membro Externo	d. n. oliveira	Membro Externo
+carlos l.b. silva	Membro Externo	f. s. nobre	Membro Externo
+carlos l.b. silva	Membro Externo	m. a. a. oliveira	Membro Externo
+a. m. silva filho	Membro Externo	d. n. oliveira	Membro Externo
+a. m. silva filho	Membro Externo	f. s. nobre	Membro Externo
+a. m. silva filho	Membro Externo	carlos l. b. silva	Membro Externo
+a. m. silva filho	Membro Externo	m. a. a. oliveira	Membro Externo
+a. m. silva filho	Membro Externo	m. a. a. oliveira	Membro Externo
+a. m. silva filho	Membro Externo	t. g. pires	Membro Externo
+a. m. silva filho	Membro Externo	aylton jose alves	Energias Renováveis
+a. m. silva filho	Membro Externo	m. g. narciso	Membro Externo
+a. m. silva filho	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+d. n. oliveira	Membro Externo	f. s. nobre	Membro Externo
+d. n. oliveira	Membro Externo	m. a. a. oliveira	Membro Externo
+f. s. nobre	Membro Externo	m. a. a. oliveira	Membro Externo
+carlos l. b. silva	Membro Externo	m. a. a. oliveira	Membro Externo
+carlos l. b. silva	Membro Externo	t. g. pires	Membro Externo
+carlos l. b. silva	Membro Externo	aylton jose alves	Energias Renováveis
+carlos l. b. silva	Membro Externo	m. g. narciso	Membro Externo
+carlos l. b. silva	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+m. a. a. oliveira	Membro Externo	t. g. pires	Membro Externo
+m. a. a. oliveira	Membro Externo	aylton jose alves	Energias Renováveis
+m. a. a. oliveira	Membro Externo	m. g. narciso	Membro Externo
+m. a. a. oliveira	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+t. g. pires	Membro Externo	m. g. narciso	Membro Externo
+t. g. pires	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+b. c. r. silva	Membro Externo	c. a. matias	Membro Externo
+b. c. r. silva	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+c. a. matias	Membro Externo	l. m. santos	Membro Externo
+c. a. matias	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+c. a. matias	Membro Externo	aylton jose alves	Energias Renováveis
+c. a. matias	Membro Externo	jose luis domingos	Energias Renováveis
+p. h. f. moraes	Membro Externo	a. s. magalhaes	Membro Externo
+p. h. f. moraes	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
