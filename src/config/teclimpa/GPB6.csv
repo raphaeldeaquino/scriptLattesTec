@@ -1,7 +1,26 @@
 nome 1	linha 1	nome 2	linha 2
-v. b. ferreira	Membro Externo	r. a. gomes	Membro Externo
-e. p. santos	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-e. p. santos	Membro Externo	m. b. x. valadao	Membro Externo
+n. c. carmo	Membro Externo	f. g. nunes	Membro Externo
+n. c. carmo	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+f. g. nunes	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+thiago augusto mendes	Modelagem de Sistemas	s. a. s. pereira	Membro Externo
+thiago augusto mendes	Modelagem de Sistemas	j. f. r. rebolledo	Membro Externo
+thiago augusto mendes	Modelagem de Sistemas	k. t. m. formiga	Membro Externo
+s. a. s. pereira	Membro Externo	j. f. r. rebolledo	Membro Externo
+s. a. s. pereira	Membro Externo	k. t. m. formiga	Membro Externo
+j. f. r. rebolledo	Membro Externo	k. t. m. formiga	Membro Externo
+a. c. pereira	Membro Externo	edipo henrique cremon	Modelagem de Sistemas
+a. c. pereira	Membro Externo	r. t. silva	Membro Externo
+a. c. pereira	Membro Externo	j. c. r. rubin	Membro Externo
+edipo henrique cremon	Modelagem de Sistemas	r. t. silva	Membro Externo
+edipo henrique cremon	Modelagem de Sistemas	j. c. r. rubin	Membro Externo
+edipo henrique cremon	Modelagem de Sistemas	r. e. aalto	Membro Externo
+edipo henrique cremon	Modelagem de Sistemas	t. dunne	Membro Externo
+edipo henrique cremon	Modelagem de Sistemas	d.d. rossetti	Membro Externo
+r. t. silva	Membro Externo	j. c. r. rubin	Membro Externo
+l. b. f. pereira	Membro Externo	alex mota dos santos	Modelagem de Sistemas
+alex mota dos santos	Modelagem de Sistemas	g. s. d. avila	Membro Externo
+alex mota dos santos	Modelagem de Sistemas	p. f. m. ferreira	Membro Externo
+alex mota dos santos	Modelagem de Sistemas	e. p. santos	Membro Externo
 alex mota dos santos	Modelagem de Sistemas	m. b. x. valadao	Membro Externo
 alex mota dos santos	Modelagem de Sistemas	b. r. i. santos	Membro Externo
 alex mota dos santos	Modelagem de Sistemas	l. a. santos	Membro Externo
@@ -9,6 +28,25 @@ alex mota dos santos	Modelagem de Sistemas	l. a. santos	Membro Externo
 alex mota dos santos	Modelagem de Sistemas	m. l. c. gomide	Membro Externo
 alex mota dos santos	Modelagem de Sistemas	j. p. batista	Membro Externo
 alex mota dos santos	Modelagem de Sistemas	w. l. carvalho	Membro Externo
+g. s. d. avila	Membro Externo	p. f. m. ferreira	Membro Externo
+f schimidt	Membro Externo	m. h. miyabara	Membro Externo
+f schimidt	Membro Externo	a. pancotti	Membro Externo
+f schimidt	Membro Externo	m. f. santiago	Membro Externo
+f schimidt	Membro Externo	marcello r.b. andreeta	Membro Externo
+f schimidt	Membro Externo	e. o. nascimento	Membro Externo
+f schimidt	Membro Externo	p. l. antonio	Membro Externo
+f schimidt	Membro Externo	l. v. e. caldas	Membro Externo
+m. h. miyabara	Membro Externo	a. pancotti	Membro Externo
+m. h. miyabara	Membro Externo	m. f. santiago	Membro Externo
+a. pancotti	Membro Externo	m. f. santiago	Membro Externo
+s. ahmadi	Membro Externo	s. a. ojala	Membro Externo
+s. ahmadi	Membro Externo	sergio botelho de oliveira	Tecnologia e Gerenciamento de Resíduos
+s. a. ojala	Membro Externo	sergio botelho de oliveira	Tecnologia e Gerenciamento de Resíduos
+a. c. f. alves	Membro Externo	p. s. scalize	Membro Externo
+a. c. f. alves	Membro Externo	sergio botelho de oliveira	Tecnologia e Gerenciamento de Resíduos
+p. s. scalize	Membro Externo	sergio botelho de oliveira	Tecnologia e Gerenciamento de Resíduos
+v. b. ferreira	Membro Externo	r. a. gomes	Membro Externo
+e. p. santos	Membro Externo	m. b. x. valadao	Membro Externo
 a. p. alvares	Membro Externo	e. l. c. nascimento	Membro Externo
 a. p. alvares	Membro Externo	e. l. c. nascimento	Membro Externo
 a. p. alvares	Membro Externo	e. s. barbosa	Membro Externo
@@ -90,14 +128,10 @@ l.n. de oliveira	Membro Externo	l. v. e. caldas	Membro Externo
 l.n. de oliveira	Membro Externo	l. v. e. caldas	Membro Externo
 l.n. de oliveira	Membro Externo	marcello r.b. andreeta	Membro Externo
 l.n. de oliveira	Membro Externo	marcello r.b. andreeta	Membro Externo
-marcello r.b. andreeta	Membro Externo	f schimidt	Membro Externo
 marcello r.b. andreeta	Membro Externo	e. o. nascimento	Membro Externo
 marcello r.b. andreeta	Membro Externo	p. l. antonio	Membro Externo
 marcello r.b. andreeta	Membro Externo	l. v. e. caldas	Membro Externo
 marcello r.b. andreeta	Membro Externo	l. v. e. caldas	Membro Externo
-f schimidt	Membro Externo	e. o. nascimento	Membro Externo
-f schimidt	Membro Externo	p. l. antonio	Membro Externo
-f schimidt	Membro Externo	l. v. e. caldas	Membro Externo
 e. o. nascimento	Membro Externo	p. l. antonio	Membro Externo
 e. o. nascimento	Membro Externo	p. l. antonio	Membro Externo
 e. o. nascimento	Membro Externo	l. v. e. caldas	Membro Externo
@@ -111,10 +145,7 @@ p. l. antonio	Membro Externo	l. v. e. caldas	Membro Externo
 p. l. antonio	Membro Externo	l. v. e. caldas	Membro Externo
 p. l. antonio	Membro Externo	l. v. e. caldas	Membro Externo
 p. l. antonio	Membro Externo	l. v. e. caldas	Membro Externo
-r. e. aalto	Membro Externo	edipo henrique cremon	Modelagem de Sistemas
 r. e. aalto	Membro Externo	t. dunne	Membro Externo
-edipo henrique cremon	Modelagem de Sistemas	t. dunne	Membro Externo
-edipo henrique cremon	Modelagem de Sistemas	d.d. rossetti	Membro Externo
 e. c. l. borges	Membro Externo	r. m. garcia	Membro Externo
 m. c. n. clariano	Membro Externo	a. s. borges	Membro Externo
 m. c. n. clariano	Membro Externo	l. f. luz	Membro Externo

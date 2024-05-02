@@ -167,6 +167,8 @@ nosetests.xml
 .project
 .pydevproject
 
+.DS_Store
+
 .settings
 compile_gui
 exemplo

@@ -1667,6 +1667,9 @@ class ParserLattesXML(HTMLParser):
 
 
 def citation(name):
+    if name == ' ':
+        return ''
+
     name = name.lower()
 
     name = name.replace('.', '')

@@ -1,40 +1,39 @@
 nome 1	linha 1	nome 2	linha 2
-g. p. lisboa	Membro Externo	m. s. moreau	Membro Externo
-g. p. lisboa	Membro Externo	r. l. gomes	Membro Externo
-g. p. lisboa	Membro Externo	g. s. lisboa	Membro Externo
-g. p. lisboa	Membro Externo	v. a. silva	Membro Externo
-g. p. lisboa	Membro Externo	r. s. magalhaes	Membro Externo
-g. p. lisboa	Membro Externo	l. c. j. franca	Membro Externo
-g. p. lisboa	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-g. p. lisboa	Membro Externo	h. c. haddadfoi	Membro Externo
-m. s. moreau	Membro Externo	r. l. gomes	Membro Externo
-m. s. moreau	Membro Externo	g. s. lisboa	Membro Externo
-m. s. moreau	Membro Externo	v. a. silva	Membro Externo
-m. s. moreau	Membro Externo	r. s. magalhaes	Membro Externo
-m. s. moreau	Membro Externo	l. c. j. franca	Membro Externo
-m. s. moreau	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-m. s. moreau	Membro Externo	h. c. haddadfoi	Membro Externo
-r. l. gomes	Membro Externo	g. s. lisboa	Membro Externo
-r. l. gomes	Membro Externo	v. a. silva	Membro Externo
-r. l. gomes	Membro Externo	r. s. magalhaes	Membro Externo
-r. l. gomes	Membro Externo	l. c. j. franca	Membro Externo
-r. l. gomes	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-r. l. gomes	Membro Externo	h. c. haddadfoi	Membro Externo
-g. s. lisboa	Membro Externo	v. a. silva	Membro Externo
-g. s. lisboa	Membro Externo	r. s. magalhaes	Membro Externo
-g. s. lisboa	Membro Externo	l. c. j. franca	Membro Externo
-g. s. lisboa	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-g. s. lisboa	Membro Externo	h. c. haddadfoi	Membro Externo
-v. a. silva	Membro Externo	r. s. magalhaes	Membro Externo
-v. a. silva	Membro Externo	l. c. j. franca	Membro Externo
-v. a. silva	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-v. a. silva	Membro Externo	h. c. haddadfoi	Membro Externo
-r. s. magalhaes	Membro Externo	l. c. j. franca	Membro Externo
-r. s. magalhaes	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-r. s. magalhaes	Membro Externo	h. c. haddadfoi	Membro Externo
-l. c. j. franca	Membro Externo	alex mota dos santos	Modelagem de Sistemas
-l. c. j. franca	Membro Externo	h. c. haddadfoi	Membro Externo
-alex mota dos santos	Modelagem de Sistemas	h. c. haddadfoi	Membro Externo
+alex mota dos santos	Modelagem de Sistemas	a. p. rudke	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	m.f. santiago	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	c. l. freire	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	j. c. s. golveia	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	l. c. campos	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	l. c. campos	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	m. f. santiago	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	e. s. nunes	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	t. s. bulhoes	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	j. r. oliveira neto	Membro Externo
+fernando schimidt	Tecnologia e Gerenciamento de Resíduos	l. c. cunha	Membro Externo
+l. c. campos	Membro Externo	m.f. santiago	Membro Externo
+l. c. campos	Membro Externo	c. l. freire	Membro Externo
+l. c. campos	Membro Externo	j. c. s. golveia	Membro Externo
+l. c. campos	Membro Externo	m. f. santiago	Membro Externo
+l. c. campos	Membro Externo	e. s. nunes	Membro Externo
+l. c. campos	Membro Externo	t. s. bulhoes	Membro Externo
+l. c. campos	Membro Externo	j. r. oliveira neto	Membro Externo
+l. c. campos	Membro Externo	l. c. cunha	Membro Externo
+m.f. santiago	Membro Externo	c. l. freire	Membro Externo
+j. c. s. golveia	Membro Externo	m. f. santiago	Membro Externo
+j. c. s. golveia	Membro Externo	e. s. nunes	Membro Externo
+j. c. s. golveia	Membro Externo	t. s. bulhoes	Membro Externo
+j. c. s. golveia	Membro Externo	j. r. oliveira neto	Membro Externo
+j. c. s. golveia	Membro Externo	l. c. cunha	Membro Externo
+m. f. santiago	Membro Externo	e. s. nunes	Membro Externo
+m. f. santiago	Membro Externo	t. s. bulhoes	Membro Externo
+m. f. santiago	Membro Externo	j. r. oliveira neto	Membro Externo
+m. f. santiago	Membro Externo	l. c. cunha	Membro Externo
+e. s. nunes	Membro Externo	t. s. bulhoes	Membro Externo
+e. s. nunes	Membro Externo	j. r. oliveira neto	Membro Externo
+e. s. nunes	Membro Externo	l. c. cunha	Membro Externo
+t. s. bulhoes	Membro Externo	j. r. oliveira neto	Membro Externo
+t. s. bulhoes	Membro Externo	l. c. cunha	Membro Externo
+j. r. oliveira neto	Membro Externo	l. c. cunha	Membro Externo
 v. dombinov	Membro Externo	h. poorter	Membro Externo
 v. dombinov	Membro Externo	n. d. jablonowski	Membro Externo
 v. dombinov	Membro Externo	s. d. schrey	Membro Externo

@@ -1,6 +1,58 @@
 nome 1	linha 1	nome 2	linha 2
+d. p. oliveira	Membro Externo	w. a. f. zang	Membro Externo
+d. p. oliveira	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+d. p. oliveira	Membro Externo	regina celia bueno da fonseca	Modelagem de Sistemas
+w. a. f. zang	Membro Externo	joachim werner zang	Tecnologia e Gerenciamento de Resíduos
+w. a. f. zang	Membro Externo	regina celia bueno da fonseca	Modelagem de Sistemas
+joachim werner zang	Tecnologia e Gerenciamento de Resíduos	regina celia bueno da fonseca	Modelagem de Sistemas
 joachim werner zang	Tecnologia e Gerenciamento de Resíduos	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
 joachim werner zang	Tecnologia e Gerenciamento de Resíduos	warde antonieta da fonseca zang	Tecnologia e Gerenciamento de Resíduos
+wesley pacheco calixto	Modelagem de Sistemas	a. p. castro junior	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	e. n. duarte	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	j. r. silva	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	l. p. alves	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	b. c. r. furriel	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	j. a. c. gobbes	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	l. e. b. ribeiro	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	m. r. c. reis	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	r. r. souza	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	s. b. oliveira	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	s. b. oliveira	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	v. m. gomes	Membro Externo
+wesley pacheco calixto	Modelagem de Sistemas	p. a. j. stecanella	Membro Externo
+g. p. furriel	Membro Externo	m. r. c. reis	Membro Externo
+g. p. furriel	Membro Externo	l. e. b. ribeiro	Membro Externo
+g. p. furriel	Membro Externo	s. b. oliveira	Membro Externo
+g. p. furriel	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+m. r. c. reis	Membro Externo	l. e. b. ribeiro	Membro Externo
+m. r. c. reis	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+m. r. c. reis	Membro Externo	j. a. c. gobbes	Membro Externo
+m. r. c. reis	Membro Externo	r. r. souza	Membro Externo
+m. r. c. reis	Membro Externo	s. b. oliveira	Membro Externo
+m. r. c. reis	Membro Externo	s. b. oliveira	Membro Externo
+m. r. c. reis	Membro Externo	v. m. gomes	Membro Externo
+l. e. b. ribeiro	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
+l. e. b. ribeiro	Membro Externo	j. a. c. gobbes	Membro Externo
+l. e. b. ribeiro	Membro Externo	m. r. c. reis	Membro Externo
+l. e. b. ribeiro	Membro Externo	r. r. souza	Membro Externo
+l. e. b. ribeiro	Membro Externo	s. b. oliveira	Membro Externo
+l. e. b. ribeiro	Membro Externo	s. b. oliveira	Membro Externo
+l. e. b. ribeiro	Membro Externo	v. m. gomes	Membro Externo
+e. n. duarte	Membro Externo	j. r. silva	Membro Externo
+e. n. duarte	Membro Externo	l. p. alves	Membro Externo
+j. r. silva	Membro Externo	l. p. alves	Membro Externo
+b. c. r. furriel	Membro Externo	j. a. c. gobbes	Membro Externo
+b. c. r. furriel	Membro Externo	l. e. b. ribeiro	Membro Externo
+b. c. r. furriel	Membro Externo	m. r. c. reis	Membro Externo
+b. c. r. furriel	Membro Externo	r. r. souza	Membro Externo
+b. c. r. furriel	Membro Externo	s. b. oliveira	Membro Externo
+b. c. r. furriel	Membro Externo	v. m. gomes	Membro Externo
+j. a. c. gobbes	Membro Externo	r. r. souza	Membro Externo
+j. a. c. gobbes	Membro Externo	s. b. oliveira	Membro Externo
+j. a. c. gobbes	Membro Externo	v. m. gomes	Membro Externo
+r. r. souza	Membro Externo	s. b. oliveira	Membro Externo
+r. r. souza	Membro Externo	v. m. gomes	Membro Externo
+s. b. oliveira	Membro Externo	v. m. gomes	Membro Externo
 aylton jose alves	Energias Renováveis	b. g. menita	Membro Externo
 aylton jose alves	Energias Renováveis	e. g. domingos	Membro Externo
 aylton jose alves	Energias Renováveis	m. a. a. faria	Membro Externo
@@ -15,4 +67,3 @@ e. g. domingos	Membro Externo	p. a. j. stecanella	Membro Externo
 e. g. domingos	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
 m. a. a. faria	Membro Externo	p. a. j. stecanella	Membro Externo
 m. a. a. faria	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
-p. a. j. stecanella	Membro Externo	wesley pacheco calixto	Modelagem de Sistemas
